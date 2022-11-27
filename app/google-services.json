@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627981636166",
+    "firebase_url": "https://library-app-3216f-default-rtdb.firebaseio.com",
+    "project_id": "library-app-3216f",
+    "storage_bucket": "library-app-3216f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627981636166:android:058887ecdd72e6b2c4b047",
+        "android_client_info": {
+          "package_name": "com.technifysoft.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627981636166-9n10e57milt8qolf1joie948311orst9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8-00oDSUatC9I2OBxS1b59ELS-cwwFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627981636166-9n10e57milt8qolf1joie948311orst9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
